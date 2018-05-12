@@ -1,0 +1,28 @@
+_repo: The-Trial-of-Henry-Hetherington_39055
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39055-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hetherington, H. (Henry)
+    alias: Hetherington, Henry
+    birthdate: 1792
+    deathdate: 1849
+    gutenberg_agent_id: '39818'
+    url: http://www.gutenberg.org/2009/agents/39818
+description: ''
+gutenberg_issued: '2012-03-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39055'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'KD'
+- !lcsh 'Trials (Blasphemy) -- England -- London'
+- !lcsh 'Hetherington, H. (Henry), 1792-1849 -- Trials, litigation, etc.'
+title: The Trial of Henry Hetherington, on an Indictment for Blasphemy
+url: http://www.gutenberg.org/ebooks/39055
