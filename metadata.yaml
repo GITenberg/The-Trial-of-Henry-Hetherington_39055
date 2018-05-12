@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '39818'
     url: http://www.gutenberg.org/2009/agents/39818
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39055#The-Trial-of-Henry-Hetherington
 gutenberg_issued: '2012-03-05'
 gutenberg_type: Text
 identifiers:
